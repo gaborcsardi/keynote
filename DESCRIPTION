@@ -1,0 +1,14 @@
+Package: keynote
+Title: Create and Update Keynote Presentations from R
+Version: 0.0.0.9000
+Author: Gábor Csárdi
+Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
+Description: Create and Update Keynote Presentations from R.
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/gaborcsardi/keynote#readme
+BugReports: https://github.com/gaborcsardi/keynote/issues
+RoxygenNote: 7.0.2.9000
+Suggests: 
+    testthat
+Encoding: UTF-8
