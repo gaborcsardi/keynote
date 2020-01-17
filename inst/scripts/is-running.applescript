@@ -1,0 +1,2 @@
+
+application "Keynote" is running

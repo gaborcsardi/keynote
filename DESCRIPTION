@@ -9,6 +9,14 @@ LazyData: true
 URL: https://github.com/gaborcsardi/keynote#readme
 BugReports: https://github.com/gaborcsardi/keynote/issues
 RoxygenNote: 7.0.2.9000
+Imports:
+    glue,
+    jsonlite,
+    processx,
+    R6,
+    tibble,
+    utils,
+    uuid
 Suggests: 
     testthat
 Encoding: UTF-8
